@@ -1,1021 +1,988 @@
 {
   "vite/modulepreload-polyfill": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "locales/en.yml": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "locales/zh-CN.yml": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/modules/i18n.ts": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/modules/nprogress.ts": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/modules/pinia.ts": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "vite/preload-helper": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/comment.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "plugin-vue:export-helper": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/comment.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/exercise.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/exercise.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
-  ],
-  "../../../../../assets/courseware--1.png": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
-  ],
-  "../../../../../assets/courseware--2.png": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
-  ],
-  "../../../../../assets/courseware--3.png": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/courseware.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/courseware.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/knowledge.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/knowledge.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/media-box.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/media-box.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/ornament.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/ornament.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/navigation.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/navigation.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/carousel.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/carousel.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/copyright.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/components/copyright.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/pages/index.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/pages/index.vue?vue&type=route&index=0&lang.yaml": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/pages/index.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "../../../../../@vite-plugin-pages/generated-pages": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/layouts/default.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "../../../../../@vite-plugin-vue-layouts/generated-layouts": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/application.vue": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "../../../../../@windicss/windi-base.css": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "../../../../../@windicss/windi-components.css": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/styles/main.css": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "../../../../../@windicss/windi-utilities.css": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "src/main.ts": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "index.html": [
-    "/famous-painting/assets/course-mask.25ac3e28.png",
-    "/famous-painting/assets/knowledge--border.f1fb9666.png",
-    "/famous-painting/assets/video--play-normal.f78850e0.png",
-    "/famous-painting/assets/video--play-hover.b8c19757.png",
-    "/famous-painting/assets/main--fan.02ba46e4.png",
-    "/famous-painting/assets/nav--header.c57e8972.png",
-    "/famous-painting/assets/main--cloud.46c5ebc4.png",
-    "/famous-painting/assets/main--tower.6dba13c7.png",
-    "/famous-painting/assets/main--thread.ad5da89b.png"
+    "/assets/course-mask.25ac3e28.png",
+    "/assets/knowledge--border.f1fb9666.png",
+    "/assets/video--play-normal.f78850e0.png",
+    "/assets/video--play-hover.b8c19757.png",
+    "/assets/main--fan.02ba46e4.png",
+    "/assets/nav--header.c57e8972.png",
+    "/assets/main--cloud.46c5ebc4.png",
+    "/assets/main--tower.6dba13c7.png",
+    "/assets/main--thread.ad5da89b.png"
   ],
   "node_modules/.pnpm/@intlify+shared@9.1.9/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@intlify+message-resolver@9.1.9/node_modules/@intlify/message-resolver/dist/message-resolver.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@intlify+shared@9.1.9/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@intlify+runtime@9.1.9/node_modules/@intlify/runtime/dist/runtime.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@intlify+message-compiler@9.1.9/node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@intlify+devtools-if@9.1.9/node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@intlify+core-base@9.1.9/node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+shared@3.2.29/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+reactivity@3.2.29/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+runtime-core@3.2.29/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+runtime-dom@3.2.29/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/vue@3.2.29/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@intlify+vue-devtools@9.1.9/node_modules/@intlify/vue-devtools/dist/vue-devtools.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/vue-i18n@9.1.9_vue@3.2.29/node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "\u0000commonjsHelpers.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "\u0000/Volumes/Work/OwnWork/FamousPainting/website/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+vue-demi@0.12.1_vue@3.2.29/node_modules/vue-demi/lib/index.mjs": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+pinia@2.0.11_typescript@4.5.5+vue@3.2.29/node_modules/pinia/dist/pinia.esm-browser.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/vue-router@4.0.12_vue@3.2.29/node_modules/vue-router/dist/vue-router.esm-bundler.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/@vueuse+head@0.7.5_vue@3.2.29/node_modules/@vueuse/head/dist/index.mjs": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+vite-ssg@0.17.9_1ede6668370ad42aad1df87e2fa73e29/node_modules/vite-ssg/dist/chunks/state.mjs": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+vite-ssg@0.17.9_1ede6668370ad42aad1df87e2fa73e29/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+vite-ssg@0.17.9_1ede6668370ad42aad1df87e2fa73e29/node_modules/vite-ssg/dist/index.mjs": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vueuse+shared@7.5.5_vue@3.2.29/node_modules/@vueuse/shared/index.mjs": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+@vueuse+core@7.5.5_vue@3.2.29/node_modules/@vueuse/core/index.mjs": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+ssr-window@4.0.2/node_modules/ssr-window/ssr-window.esm.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+dom7@4.0.4/node_modules/dom7/dom7.esm.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/shared/dom.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/shared/utils.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/shared/get-support.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/shared/get-device.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/shared/get-browser.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/modules/resize/resize.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/modules/observer/observer.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/events-emitter.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/update/updateSize.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/update/updateSlides.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/update/updateAutoHeight.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/update/updateSlidesOffset.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/update/updateSlidesProgress.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/update/updateProgress.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/update/updateSlidesClasses.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/update/updateActiveIndex.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/update/updateClickedSlide.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/update/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/translate/getTranslate.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/translate/setTranslate.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/translate/minTranslate.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/translate/maxTranslate.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/translate/translateTo.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/translate/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/transition/setTransition.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/transition/transitionEmit.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/transition/transitionStart.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/transition/transitionEnd.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/transition/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/slide/slideTo.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/slide/slideToLoop.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/slide/slideNext.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/slide/slidePrev.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/slide/slideReset.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/slide/slideToClosest.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/slide/slideToClickedSlide.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/slide/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/loop/loopCreate.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/loop/loopFix.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/loop/loopDestroy.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/loop/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/grab-cursor/setGrabCursor.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/grab-cursor/unsetGrabCursor.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/grab-cursor/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/events/onTouchStart.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/events/onTouchMove.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/events/onTouchEnd.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/events/onResize.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/events/onClick.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/events/onScroll.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/events/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/breakpoints/setBreakpoint.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/breakpoints/getBreakpoint.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/breakpoints/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/classes/addClasses.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/classes/removeClasses.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/classes/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/images/loadImage.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/images/preloadImages.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/images/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/check-overflow/index.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/defaults.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/moduleExtendParams.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/core/core.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/virtual/virtual.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/keyboard/keyboard.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/mousewheel/mousewheel.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/shared/create-element-if-not-defined.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/navigation/navigation.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/shared/classes-to-selector.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/pagination/pagination.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/scrollbar/scrollbar.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/parallax/parallax.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/zoom/zoom.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/lazy/lazy.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/controller/controller.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/a11y/a11y.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/history/history.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/hash-navigation/hash-navigation.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/autoplay/autoplay.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/thumbs/thumbs.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/free-mode/free-mode.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/grid/grid.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/manipulation/methods/appendSlide.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/manipulation/methods/prependSlide.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/manipulation/methods/addSlide.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/manipulation/methods/removeSlide.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/manipulation/methods/removeAllSlides.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/manipulation/manipulation.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/shared/effect-init.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/shared/effect-target.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/shared/effect-virtual-transition-end.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/effect-fade/effect-fade.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/effect-cube/effect-cube.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/shared/create-shadow.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/effect-flip/effect-flip.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/effect-coverflow/effect-coverflow.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/effect-creative/effect-creative.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/modules/effect-cards/effect-cards.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/swiper.esm.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/utils.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/params-list.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/get-params.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/init-swiper.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/loop.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/get-changed-params.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/get-children.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/update-swiper.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/virtual.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/swiper.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/swiper-slide.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/context.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "node_modules/.pnpm/registry.npmjs.org+swiper@8.0.3/node_modules/swiper/vue/swiper-vue.js": [
-    "/famous-painting/assets/vendor.ebb0b43e.js"
+    "/assets/vendor.ebb0b43e.js"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
-    "/famous-painting/assets/_...all_.6b912749.js"
+    "/assets/_...all_.6b912749.js"
   ],
   "src/pages/[...all].vue": [
-    "/famous-painting/assets/_...all_.6b912749.js"
+    "/assets/_...all_.6b912749.js"
   ],
   "src/pages/[category]/[id].vue": [
-    "/famous-painting/assets/_id_.da561552.js"
+    "/assets/_id_.da561552.js"
   ],
   "~icons/carbon/warning": [
-    "/famous-painting/assets/404.2995de83.js"
+    "/assets/404.2995de83.js"
   ],
   "src/layouts/404.vue": [
-    "/famous-painting/assets/404.2995de83.js"
+    "/assets/404.2995de83.js"
   ],
   "src/layouts/home.vue": [
-    "/famous-painting/assets/home.e69c014e.js"
+    "/assets/home.be3adc4d.js"
   ],
   "src/layouts/page.vue?vue&type=style&index=0&lang.css": [
-    "/famous-painting/assets/page.ea2e714f.js",
-    "/famous-painting/assets/page.bfd335b7.css"
+    "/assets/page.53d4b882.js",
+    "/assets/page.bfd335b7.css"
   ],
   "src/layouts/page.vue": [
-    "/famous-painting/assets/page.ea2e714f.js",
-    "/famous-painting/assets/page.bfd335b7.css"
+    "/assets/page.53d4b882.js",
+    "/assets/page.bfd335b7.css"
   ]
 }
