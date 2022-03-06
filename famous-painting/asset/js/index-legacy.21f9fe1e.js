@@ -1,1 +1,0 @@
-System.register(["./index-legacy.398150cf.js","./vendor-legacy.ffeea19c.js"],(function(e){"use strict";var t;return{setters:[function(e){t=e.b},function(){}],execute:function(){var n=e("default",{name:"Category"});"function"==typeof t&&t(n)}}}));
