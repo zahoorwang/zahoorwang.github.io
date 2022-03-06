@@ -1,0 +1,1 @@
+import{h as e,i as s,o as t,j as c}from"./vendor.b017440c.js";const n={class:"exception"},i=e({setup(a){const o=s();return console.log(()=>o.push("/")),(p,u)=>(t(),c("div",n))}});export{i as default};
